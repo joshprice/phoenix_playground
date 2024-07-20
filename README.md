@@ -62,7 +62,7 @@ See more examples below:
   * [`examples/demo_controller.exs`]
   * [`examples/demo_controller_test.exs`]
   * [`examples/demo_plug.exs`]
-  * [`examples/demo_hooks.exs`]
+  * [`examples/demo_hooks.exs`](https://github.com/joshprice/phoenix_playground/blob/main/examples/demo_hooks.exs)
 
 ## License
 
